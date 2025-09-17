@@ -7,7 +7,7 @@
 ## 👩‍💻 About Me
 
 - 🔭 Software Engineer @ **Uwellnow** (App · Web · AI Algorithm)
-- 🚀 Currently diving into **CI/CD pipelines** & **AI Recommendation (LightFM + GNNs)**
+- 🚀 Currently diving into **CI/CD pipelines** & **AI Recommendation**
 
 <a href="mailto:kimtaeran4767@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 <a href="https://www.instagram.com/8.xar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
@@ -33,18 +33,9 @@
   <strong>Backend:</strong><br>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/PostgreSQL-1D4ED8?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
 
-</p>
-
-<p align="center">
-  <strong>AI:</strong><br>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white">
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </p>
 
 <p align="center">
@@ -52,10 +43,7 @@
   <img src="https://img.shields.io/badge/Expo-1C2024?style=for-the-badge&logo=expo&logoColor=white">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 </p>
 
 <h2 align="center">🌈 Currently Learning & Wanna Explore 🌈</h2>
@@ -74,18 +62,13 @@
 ## 🚀 What I'm Working On
 
 ✨ **AI Recommendation Algorithm**  
-Building a hybrid recommendation system with **LightFM** & **GNNs**  
+Building a hybrid recommendation system with **LightFM**
 
 ✨ **Full-Stack Web App**  
 - Crafting Web projects with **NestJs**(BE)
 - Crafting App projects with **Jetpack Compose**(FE)
 - Crafting App projects with **React Native**(FE)
 
-✨ **Clubs & Activity**  
-- Student Council Dept. of CSE at PNU (~2024)
-- United College Dancing Club of PNU **@ UCDC** (~2025)
-- President of Coding Education Volunteer Club **@ CodeCoach** (~ing)
-- IT Project Club **@ Apptive** (~ing)
 ---
 
 <p align="center">
