@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-- 🔭 Software Engineer @ **Uwellnow** (App · Web · AI Algorithm)
+- 🔭 Software Engineer @ **Uwellnow** (App · Web)
 - 🚀 Currently diving into **CI/CD pipelines** & **AI Recommendation**
 
 <a href="mailto:kimtaeran4767@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
@@ -60,14 +60,10 @@
 ---
 
 ## 🚀 What I'm Working On
-
-✨ **AI Recommendation Algorithm**  
-Building a hybrid recommendation system with **LightFM**
-
 ✨ **Full-Stack Web App**  
-- Crafting Web projects with **NestJs**(BE)
-- Crafting App projects with **Jetpack Compose**(FE)
-- Crafting App projects with **React Native**(FE)
+- Crafting Web projects with **NestJs**
+- Crafting App projects with **React Native**
+- Outsourcing Developing with **React Native/FastAPI/AWS**
 
 ---
 
