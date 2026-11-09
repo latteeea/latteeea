@@ -45,7 +45,7 @@ Interested in **Backend · Cloud · Data · AI Systems**.
 | **Uwellnow** (2025.07 – 2026.08) | Healthcare startup: kiosk app, admin web, backend, supplement recommendation | Core developer across app·web·server; tackled data quality issues in the recommendation engine | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7515419038924234752/) |
 | **Killing Part** (2025.04 - ing) | Side project app, released on Google Play & App Store | Built & shipped end-to-end, now in maintenance | [Repo](https://github.com/ApptiveDev/KillingPoint-FE) · [Google Play](https://play.google.com/store/apps/details?id=com.killingpart.killingpoint&hl=ko) |
 | **Whale Done (칭찬고래)** (2026.04 - 2026.10) | Graduation capstone | Social login & recommendation infrastructure | [Repo](https://github.com/WhaleDone2026/whale-app) |
-| **Engineering Narrative** (2026) | Self-RAG study → restoring the reasoning process behind troubleshooting logs | Problem → hypothesis → failure → root cause → reusable principle | [Repo](https://github.com/ApptiveDev/rag-agent-study/tree/latteeea/week2-state-memory) |
+| **Engineering Narrative** (2026) | Self-RAG study → restoring the reasoning process behind troubleshooting logs | Problem → hypothesis → failure → root cause → reusable principle | [Repo](https://github.com/latteeea/troubleshooting-rag) |
  
 <!-- 링크 없는 칸은 - 로 두기. 비공개 레포는 링크 걸지 말 것 (방문자에겐 404) -->
  
